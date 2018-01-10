@@ -21,10 +21,9 @@ class Bulldozer {
 public class Main {
 
     public static void main(String[] args) {
-        Man man = new Man(true, "tan","randy");
-        Cart cart = new Cart(true, "red", "go");
-        Alien alien = new Alien(true, "purple","kyros");
-
+        FactoryWorker worker = new FactoryWorker();
+        worker.count(5);
+        worker.count(.4);
     }
 }
 
