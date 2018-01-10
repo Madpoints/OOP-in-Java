@@ -21,9 +21,10 @@ class Bulldozer {
 public class Main {
 
     public static void main(String[] args) {
-        FactoryWorker worker = new FactoryWorker();
-        int result = worker.addNumbers(2, 3);
-        System.out.println(result);
+        SaloonCar saloonCar1 = new SaloonCar(2);
+        SaloonCar saloonCar2 = new SaloonCar("Nissan", 3);
+        SaloonCar saloonCar3 = new SaloonCar("purple", "Ford", 4);
+
     }
 }
 

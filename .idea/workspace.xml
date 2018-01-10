@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2ae3a239-0ede-4fbd-9253-40ffef6a64e0" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/com/Madpoints/FactoryWorker.java" afterPath="$PROJECT_DIR$/src/com/Madpoints/FactoryWorker.java" />
       <change beforePath="$PROJECT_DIR$/src/com/Madpoints/Main.java" afterPath="$PROJECT_DIR$/src/com/Madpoints/Main.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -15,16 +14,46 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/Madpoints/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="25" column="33" lean-forward="false" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
+            <state relative-caret-position="202">
+              <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
               <folding>
                 <element signature="e#232#233#0" expanded="true" />
                 <element signature="e#260#261#0" expanded="true" />
                 <element signature="e#291#292#0" expanded="true" />
                 <element signature="e#318#319#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Car.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/Madpoints/Car.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+              <folding>
+                <element signature="e#228#229#0" expanded="true" />
+                <element signature="e#260#261#0" expanded="true" />
+                <element signature="e#319#320#0" expanded="true" />
+                <element signature="e#347#348#0" expanded="true" />
+                <element signature="e#378#379#0" expanded="true" />
+                <element signature="e#405#406#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SaloonCar.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/Madpoints/SaloonCar.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="43" lean-forward="false" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
+              <folding>
+                <element signature="e#408#409#0" expanded="true" />
+                <element signature="e#458#459#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -70,6 +99,8 @@
         <option value="$PROJECT_DIR$/src/com/Madpoints/Man.java" />
         <option value="$PROJECT_DIR$/src/com/Madpoints/Woman.java" />
         <option value="$PROJECT_DIR$/src/com/Madpoints/FactoryWorker.java" />
+        <option value="$PROJECT_DIR$/src/com/Madpoints/SaloonCar.java" />
+        <option value="$PROJECT_DIR$/src/com/Madpoints/Car.java" />
         <option value="$PROJECT_DIR$/src/com/Madpoints/Main.java" />
       </list>
     </option>
@@ -186,7 +217,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.329582" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.329582" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -290,13 +321,39 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/Madpoints/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="25" column="33" lean-forward="false" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
+        <state relative-caret-position="202">
+          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
           <folding>
             <element signature="e#232#233#0" expanded="true" />
             <element signature="e#260#261#0" expanded="true" />
             <element signature="e#291#292#0" expanded="true" />
             <element signature="e#318#319#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Madpoints/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding>
+            <element signature="e#228#229#0" expanded="true" />
+            <element signature="e#260#261#0" expanded="true" />
+            <element signature="e#319#320#0" expanded="true" />
+            <element signature="e#347#348#0" expanded="true" />
+            <element signature="e#378#379#0" expanded="true" />
+            <element signature="e#405#406#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Madpoints/SaloonCar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="43" lean-forward="false" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
+          <folding>
+            <element signature="e#408#409#0" expanded="true" />
+            <element signature="e#458#459#0" expanded="true" />
           </folding>
         </state>
       </provider>
