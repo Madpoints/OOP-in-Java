@@ -22,8 +22,8 @@ public class Main {
 
     public static void main(String[] args) {
         FactoryWorker worker = new FactoryWorker();
-        worker.count(5);
-        worker.count(.4);
+        int result = worker.addNumbers(2, 3);
+        System.out.println(result);
     }
 }
 
