@@ -21,13 +21,10 @@ class Bulldozer {
 public class Main {
 
     public static void main(String[] args) {
-	    Bulldozer dozer = new Bulldozer("red", "big");
-        System.out.println(dozer.getColor());
-        System.out.println(dozer.getSize());
+        Man man = new Man(true, "tan","randy");
+        Cart cart = new Cart(true, "red", "go");
+        Alien alien = new Alien(true, "purple","kyros");
 
-        Bulldozer dozer2 = new Bulldozer("yellow", "large");
-        System.out.println(dozer2.getColor());
-        System.out.println(dozer2.getSize());
     }
 }
 
